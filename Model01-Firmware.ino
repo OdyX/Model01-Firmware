@@ -253,7 +253,7 @@ KALEIDOSCOPE_INIT_PLUGINS(
   StalkerEffect,
 
   // The Colormap effect makes it possible to set up per-layer colormaps
-  ColormapEffect,
+  // ColormapEffect,
 
   // The numpad plugin is responsible for lighting up the 'numpad' mode
   // with a custom LED effect

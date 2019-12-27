@@ -38,17 +38,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1912"
-     inkscape:window-height="761"
+     inkscape:window-width="1920"
+     inkscape:window-height="1171"
      id="namedview600"
      showgrid="false"
-     inkscape:zoom="0.25028452"
-     inkscape:cx="6118.6426"
-     inkscape:cy="3050.6266"
+     inkscape:zoom="0.17697788"
+     inkscape:cx="5816.0769"
+     inkscape:cy="3091.2141"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="FN-Keys" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg598" />
   <g
      id="outline"
      sodipodi:insensitive="true">
@@ -1533,14 +1533,14 @@
      font-size="20"
      transform="matrix(2.13866,-3.57593,3.57593,2.13866,57.8024,33.8454)"
      id="text427"
-     style="font-size:20px;font-family:GothamBook, 'Gotham Book'">Del</text>
+     style="font-size:20px;font-family:GothamBook, 'Gotham Book'">AltGr</text>
   <text
      x="779.09302"
      y="6224.771"
      font-size="83.333"
      transform="rotate(-49.314466)"
      id="text433"
-     style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book'">AltGr</text>
+     style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book'">Shift</text>
   <text
      x="2349.84"
      y="5840.44"
@@ -1784,21 +1784,21 @@
      font-size="83.333"
      transform="rotate(38.445662,-115.80016,158.72411)"
      id="text505"
-     style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book'">Shift</text>
+     style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book'">BkSp</text>
   <text
-     x="4615.187"
-     y="-262.2627"
+     x="4572.9473"
+     y="-238.88547"
      font-size="83.333"
      transform="rotate(49.518007)"
      id="text507"
-     style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book'">Alt</text>
+     style="font-size:83.33300018px;font-family:GothamBook, 'Gotham Book'">Shift</text>
   <text
-     x="1151.98"
-     y="-272.58801"
+     x="4834.6172"
+     y="-1127.7405"
      font-size="20"
-     transform="matrix(2.07903,3.61092,-3.61092,2.07903,15.995,-11.1177)"
+     transform="rotate(60.068304)"
      id="text509"
-     style="font-size:20px;font-family:GothamBook, 'Gotham Book'">BkSp</text>
+     style="font-size:83.33332825px;font-family:GothamBook, 'Gotham Book';stroke-width:4.16666651">Alt</text>
   <text
      x="1189.35"
      y="-272.58801"
